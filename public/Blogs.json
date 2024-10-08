@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "title": "The Rise of AI in Everyday Life",
+      "cover_img": "https://i.ibb.co.com/XZjqPpn/virtual-assistant-circle-background-purple-gradient-disruptive-technology.jpg",
+      "author_name": "John Smith",
+      "author_img": "https://i.ibb.co.com/5W5cFfs/eric-ries.png",
+      "published_date": "2024-09-10",
+      "reading_time": "5 min",
+      "hash_tags": ["AI", "Technology", "Innovation"]
+    },
+    {
+      "id": 2,
+      "title": "Sustainable Living: A Comprehensive Guide",
+      "cover_img": "https://i.ibb.co.com/FKbpcHn/cutout-family-and-environment-on-grass.jpg",
+      "author_name": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/5W5cFfs/eric-ries.png",
+      "published_date": "2024-08-22",
+      "reading_time": "7 min",
+      "hash_tags": ["Sustainability", "Eco-Friendly", "Environment"]
+    },
+    {
+      "id": 3,
+      "title": "Top 10 Travel Destinations for 2024",
+      "cover_img": "https://i.ibb.co.com/ZzsMsyM/beginner-friendly-adventure-travel-destinations-1024x585.jpg",
+      "author_name": "Alex Johnson",
+      "author_img": "https://i.ibb.co.com/5W5cFfs/eric-ries.png",
+      "published_date": "2024-07-15",
+      "reading_time": "6 min",
+      "hash_tags": ["Travel", "Destinations", "Adventure"]
+    },
+    {
+      "id": 4,
+      "title": "The Future of Renewable Energy",
+      "cover_img": "https://i.ibb.co.com/7kGWsCb/HDg-GFVFdu-Ev-LRDri-LNUHkl-C9nm-K2p-I85-ZXHe4y-Zl-Zfw.jpg",
+      "author_name": "Maria Garcia",
+      "author_img": "https://i.ibb.co.com/5W5cFfs/eric-ries.png",
+      "published_date": "2024-06-30",
+      "reading_time": "8 min",
+      "hash_tags": ["Renewable Energy", "Green Tech", "Climate"]
+    },
+    {
+      "id": 5,
+      "title": "Mastering Remote Work: Tips and Tools",
+      "cover_img": "https://i.ibb.co.com/JjGQ9TH/c7a1120c-5dd3-4263-96b6-60960d28857e.jpg",
+      "author_name": "Michael Brown",
+      "author_img": "https://i.ibb.co.com/5W5cFfs/eric-ries.png",
+      "published_date": "2024-05-18",
+      "reading_time": "5 min",
+      "hash_tags": ["Remote Work", "Productivity", "Work-Life Balance"]
+    },
+    {
+      "id": 6,
+      "title": "Health and Wellness: Staying Fit in 2024",
+      "cover_img": "https://i.ibb.co.com/d0BZgHD/pexels-elly-fairytale-3822864.jpg",
+      "author_name": "Emily Davis",
+      "author_img": "https://i.ibb.co.com/5W5cFfs/eric-ries.png",
+      "published_date": "2024-04-12",
+      "reading_time": "6 min",
+      "hash_tags": ["Health", "Wellness", "Fitness"]
+    },
+    {
+      "id": 7,
+      "title": "The Evolution of Electric Vehicles",
+      "cover_img": "https://i.ibb.co.com/GtWvbL2/green-steel-cw.png",
+      "author_name": "David Lee",
+      "author_img": "https://i.ibb.co.com/5W5cFfs/eric-ries.png",
+      "published_date": "2024-03-25",
+      "reading_time": "7 min",
+      "hash_tags": ["Electric Vehicles", "Technology", "Sustainability"]
+    },
+    {
+      "id": 8,
+      "title": "A Guide to Mindful Meditation",
+      "cover_img": "https://i.ibb.co.com/XJJKGkT/Seasons-Of-Our-Life-Holistic-Wellness-Meditation.png",
+      "author_name": "Sophia Wilson",
+      "author_img": "https://i.ibb.co.com/5W5cFfs/eric-ries.png",
+      "published_date": "2024-02-28",
+      "reading_time": "4 min",
+      "hash_tags": ["Meditation", "Mindfulness", "Wellness"]
+    },
+    {
+      "id": 9,
+      "title": "The Importance of Cybersecurity in 2024",
+      "cover_img": "https://i.ibb.co.com/mThQ26g/data-protection.jpg",
+      "author_name": "Chris Thompson",
+      "author_img": "https://i.ibb.co.com/5W5cFfs/eric-ries.png",
+      "published_date": "2024-01-15",
+      "reading_time": "5 min",
+      "hash_tags": ["Cybersecurity", "Technology", "Data Protection"]
+    },
+    {
+      "id": 10,
+      "title": "Building Stronger Communities Through Volunteering",
+      "cover_img": "https://i.ibb.co.com/QmgVt5Z/fbcover-101542931443882881.jpg",
+      "author_name": "Olivia Martinez",
+      "author_img": "https://i.ibb.co.com/5W5cFfs/eric-ries.png",
+      "published_date": "2024-10-05",
+      "reading_time": "6 min",
+      "hash_tags": ["Volunteering", "Community", "Social Impact"]
+    }
+  ]
+  
